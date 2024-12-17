@@ -5,9 +5,9 @@ VASP_tool is a Python library designed to streamline the analysis and visualizat
 - Band Structure Analysis
 
 - Regular and spin-polarized band structure visualization.
--- Automatic handling of Fermi level shifts.
--- High symmetry k-point annotations.
--- Density of States (DOS) Analysis
+  -- Automatic handling of Fermi level shifts.
+  -- High symmetry k-point annotations.
+  -- Density of States (DOS) Analysis
 
 - Regular and projected DOS with support for spin polarization.
 -- Smoothing and peak broadening using Savitzky-Golay filters and Gaussian functions.
