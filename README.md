@@ -29,7 +29,7 @@ pip install numpy pandas matplotlib scipy
 ## Usage
 
 ### Data preparation
-This code uses the output of process band and DOS data from vaspkit, please refer to vaspkit about how to generate data from band and DOS calculations.
+This code uses the output of processed band and DOS data from vaspkit, please refer to vaspkit about how to generate data from band and DOS calculations.
 
 ### Initialization
 To start analyzing VASP data, create an instance of the VASP_tool class:
