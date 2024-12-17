@@ -9,7 +9,7 @@ VASP_tool is a Python library designed to streamline the analysis and visualizat
 -- High symmetry k-point annotations.
 -- Density of States (DOS) Analysis
 
--- Regular and projected DOS with support for spin polarization.
+- Regular and projected DOS with support for spin polarization.
 -- Smoothing and peak broadening using Savitzky-Golay filters and Gaussian functions.
 -- Flexible orientations (vertical and horizontal plots).
 -- Highly Customizable Plots
